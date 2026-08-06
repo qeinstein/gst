@@ -1,0 +1,2661 @@
+[
+  {
+    "question": "For an argument to be called a good argument, it must meet two conditions",
+    "options": [
+      {
+        "letter": "a",
+        "text": "The conclusion and premise must be a voided"
+      },
+      {
+        "letter": "b",
+        "text": "The conclusion must be false and the premise false"
+      },
+      {
+        "letter": "c",
+        "text": "The conclusion must follow from the premise and its premises must be true"
+      },
+      {
+        "letter": "d",
+        "text": "The premise must be sound"
+      }
+    ],
+    "id": 1,
+    "answerLetter": "c",
+    "answerText": "The conclusion must follow from the premise and its premises must be true"
+  },
+  {
+    "question": "Which of the following are demerits of science and technology?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "All of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Gene Mutation"
+      },
+      {
+        "letter": "c",
+        "text": "Global warming"
+      },
+      {
+        "letter": "d",
+        "text": "Pollution"
+      }
+    ],
+    "id": 2,
+    "answerLetter": "a",
+    "answerText": "All of the above"
+  },
+  {
+    "question": "In any definition, the word or symbol being defined is called",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Definiendum"
+      },
+      {
+        "letter": "b",
+        "text": "Lexical"
+      },
+      {
+        "letter": "c",
+        "text": "Stipulative"
+      },
+      {
+        "letter": "d",
+        "text": "Definition"
+      }
+    ],
+    "id": 3,
+    "answerLetter": "a",
+    "answerText": "Definiendum"
+  },
+  {
+    "question": "One of the following is not a relevant aspect to the philosophy and society",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ethics"
+      },
+      {
+        "letter": "b",
+        "text": "Existentialism"
+      },
+      {
+        "letter": "c",
+        "text": "Rhetorical Sequence"
+      },
+      {
+        "letter": "d",
+        "text": "Political Philosophy"
+      }
+    ],
+    "id": 4,
+    "answerLetter": "c",
+    "answerText": "Rhetorical Sequence"
+  },
+  {
+    "question": "Fallacies according to Copi include",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Mediate and Immediate"
+      },
+      {
+        "letter": "b",
+        "text": "Formal, Semi-fromal and informal"
+      },
+      {
+        "letter": "c",
+        "text": "Informal, semiformal, formal and mediate"
+      },
+      {
+        "letter": "d",
+        "text": "Formal and Informal"
+      }
+    ],
+    "id": 5,
+    "answerLetter": "d",
+    "answerText": "Formal and Informal"
+  },
+  {
+    "question": "The question of embezzlement concerns ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ethics"
+      },
+      {
+        "letter": "b",
+        "text": "Metaphysics"
+      },
+      {
+        "letter": "c",
+        "text": "Epistemology"
+      },
+      {
+        "letter": "d",
+        "text": "Logic"
+      }
+    ],
+    "id": 6,
+    "answerLetter": "a",
+    "answerText": "Ethics"
+  },
+  {
+    "question": "The branch of applied ethics that concerns itself with the application of ethical theories, doctrines, and principles to bear on such topics as suicide, euthanasia, and abortion, is known as ________ ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Medical Ethics"
+      },
+      {
+        "letter": "b",
+        "text": "Social Ethics"
+      },
+      {
+        "letter": "c",
+        "text": "Life Ethics"
+      },
+      {
+        "letter": "d",
+        "text": "Health Ethics"
+      }
+    ],
+    "id": 7,
+    "answerLetter": "a",
+    "answerText": "Medical Ethics"
+  },
+  {
+    "question": "Democritus the atomist belongs to _______ group",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Pre-Socratic philosophers"
+      },
+      {
+        "letter": "b",
+        "text": "Contemporary day philosophers"
+      },
+      {
+        "letter": "c",
+        "text": "Medieval thinkers"
+      },
+      {
+        "letter": "d",
+        "text": "Modern period philosophers"
+      }
+    ],
+    "id": 8,
+    "answerLetter": "a",
+    "answerText": "Pre-Socratic philosophers"
+  },
+  {
+    "question": "Through Marxism as a rallying ideology , workers around the world are mobilized against........",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Buharists"
+      },
+      {
+        "letter": "b",
+        "text": "Political leaders"
+      },
+      {
+        "letter": "c",
+        "text": "capitalist oppressors"
+      },
+      {
+        "letter": "d",
+        "text": "working class"
+      }
+    ],
+    "id": 9,
+    "answerLetter": "c",
+    "answerText": "capitalist oppressors"
+  },
+  {
+    "question": "Neoplatonism was a popular philosophy in the",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Medieval period"
+      },
+      {
+        "letter": "b",
+        "text": "ancient period"
+      },
+      {
+        "letter": "c",
+        "text": "contemporary period"
+      },
+      {
+        "letter": "d",
+        "text": "Socratic period"
+      }
+    ],
+    "id": 10,
+    "answerLetter": "b",
+    "answerText": "ancient period"
+  },
+  {
+    "question": "The setback suffered by science in the ancient period was caused by the destruction of which library?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "The library of Zeno of Elea"
+      },
+      {
+        "letter": "b",
+        "text": "None of the Above"
+      },
+      {
+        "letter": "c",
+        "text": "The library of the Milesins"
+      },
+      {
+        "letter": "d",
+        "text": "The library of Alexandria the Great"
+      }
+    ],
+    "id": 11,
+    "answerLetter": "a",
+    "answerText": "The library of Zeno of Elea"
+  },
+  {
+    "question": "Which of the following do the etymological definition of philosophy trnslates to?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Love of wisdom"
+      },
+      {
+        "letter": "b",
+        "text": "Sophie's world"
+      },
+      {
+        "letter": "c",
+        "text": "Love in wisdom"
+      },
+      {
+        "letter": "d",
+        "text": "Love and wisdom"
+      }
+    ],
+    "id": 12,
+    "answerLetter": "a",
+    "answerText": "Love of wisdom"
+  },
+  {
+    "question": "One of the following is needed to create an argument",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Probability and subjectivity"
+      },
+      {
+        "letter": "b",
+        "text": "Induction, deduction and intentionality"
+      },
+      {
+        "letter": "c",
+        "text": "Premise and conclusion"
+      },
+      {
+        "letter": "d",
+        "text": "Premise indicators, validity and notions"
+      }
+    ],
+    "id": 13,
+    "answerLetter": "c",
+    "answerText": "Premise and conclusion"
+  },
+  {
+    "question": "Meta-ta-physika and meta-ta-etika both mean the same theory used to analyse the be yondness of reality",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Maybe"
+      },
+      {
+        "letter": "c",
+        "text": "False"
+      },
+      {
+        "letter": "d",
+        "text": "True"
+      }
+    ],
+    "id": 14,
+    "answerLetter": "a",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "A proposition with a negation but without a conector is a",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Complex proposition"
+      },
+      {
+        "letter": "b",
+        "text": "Simple proposition"
+      },
+      {
+        "letter": "c",
+        "text": "Syllogism"
+      },
+      {
+        "letter": "d",
+        "text": "Compound proposition"
+      }
+    ],
+    "id": 15,
+    "answerLetter": "b",
+    "answerText": "Simple proposition"
+  },
+  {
+    "question": "The statement within an argument which provide support for asserting the conclusion of that argument is called ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Inference"
+      },
+      {
+        "letter": "b",
+        "text": "Proposal"
+      },
+      {
+        "letter": "c",
+        "text": "Proposition"
+      },
+      {
+        "letter": "d",
+        "text": "Premise"
+      }
+    ],
+    "id": 16,
+    "answerLetter": "d",
+    "answerText": "Premise"
+  },
+  {
+    "question": "Cheating in examination is a problem discussed in what branch of philosophy?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Education"
+      },
+      {
+        "letter": "b",
+        "text": "Cosmology"
+      },
+      {
+        "letter": "c",
+        "text": "Morality"
+      },
+      {
+        "letter": "d",
+        "text": "Ethics"
+      }
+    ],
+    "id": 17,
+    "answerLetter": "d",
+    "answerText": "Ethics"
+  },
+  {
+    "question": "Feyerabend theory of scientific research can lead to",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Discipline in research"
+      },
+      {
+        "letter": "b",
+        "text": "None of the above"
+      },
+      {
+        "letter": "c",
+        "text": "Unity in research"
+      },
+      {
+        "letter": "d",
+        "text": "Anarchy in research"
+      }
+    ],
+    "id": 18,
+    "answerLetter": "d",
+    "answerText": "Anarchy in research"
+  },
+  {
+    "question": "Aristotle advocates for",
+    "options": [
+      {
+        "letter": "a",
+        "text": "a priori knowledge"
+      },
+      {
+        "letter": "b",
+        "text": "a posteriori knowledge"
+      },
+      {
+        "letter": "c",
+        "text": "synthetic a prori knowledge"
+      },
+      {
+        "letter": "d",
+        "text": "synthetic a posteriori knowledge"
+      }
+    ],
+    "id": 19,
+    "answerLetter": "a",
+    "answerText": "a priori knowledge"
+  },
+  {
+    "question": "The two dimensions of the fallacy of False Cause include",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Pro causa and Non cause"
+      },
+      {
+        "letter": "b",
+        "text": "Non Causa Pro Causa and Post hoc ergo propter hoc"
+      },
+      {
+        "letter": "c",
+        "text": "Non causa pricipi and Causa Pricipi"
+      },
+      {
+        "letter": "d",
+        "text": "Post hoc and Ergo propter Hoc"
+      }
+    ],
+    "id": 20,
+    "answerLetter": "a",
+    "answerText": "Pro causa and Non cause"
+  },
+  {
+    "question": "Which of the following is not a philosopher?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Protagoras"
+      },
+      {
+        "letter": "b",
+        "text": "Pythagoras"
+      },
+      {
+        "letter": "c",
+        "text": "Plato"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 21,
+    "answerLetter": "c",
+    "answerText": "Plato"
+  },
+  {
+    "question": "Aristotle was a - of Plato",
+    "options": [
+      {
+        "letter": "a",
+        "text": "master"
+      },
+      {
+        "letter": "b",
+        "text": "brother"
+      },
+      {
+        "letter": "c",
+        "text": "servant"
+      },
+      {
+        "letter": "d",
+        "text": "father"
+      }
+    ],
+    "id": 22,
+    "answerLetter": "a",
+    "answerText": "master"
+  },
+  {
+    "question": "Error could be defined as \"incorrect judgement\" , \"a mistaken judgement\", or simply put, \"a judgement that affirms what is not the case\".",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "False"
+      },
+      {
+        "letter": "c",
+        "text": "I didn't read about this"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 23,
+    "answerLetter": "a",
+    "answerText": "True"
+  },
+  {
+    "question": "Which of the following is not none of the classical theories of truth?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Redundant"
+      },
+      {
+        "letter": "b",
+        "text": "Redundancy"
+      },
+      {
+        "letter": "c",
+        "text": "Performative"
+      },
+      {
+        "letter": "d",
+        "text": "Pragmatic"
+      }
+    ],
+    "id": 24,
+    "answerLetter": "d",
+    "answerText": "Pragmatic"
+  },
+  {
+    "question": "__________ is a part of a disjunction",
+    "options": [
+      {
+        "letter": "a",
+        "text": "antecedent"
+      },
+      {
+        "letter": "b",
+        "text": "1st disjunct"
+      },
+      {
+        "letter": "c",
+        "text": "2nd conjunct"
+      },
+      {
+        "letter": "d",
+        "text": "3 bars"
+      }
+    ],
+    "id": 25,
+    "answerLetter": "a",
+    "answerText": "antecedent"
+  },
+  {
+    "question": "The Greek words for Technology trnslate to mean _______ and ____",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Craft and study"
+      },
+      {
+        "letter": "b",
+        "text": "All of the above"
+      },
+      {
+        "letter": "c",
+        "text": "Art and study"
+      },
+      {
+        "letter": "d",
+        "text": "Art and reasoning"
+      }
+    ],
+    "id": 26,
+    "answerLetter": "a",
+    "answerText": "Craft and study"
+  },
+  {
+    "question": "Analysis about death is part of the concerns of philosophy",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "False"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "Not given"
+      }
+    ],
+    "id": 27,
+    "answerLetter": "a",
+    "answerText": "True"
+  },
+  {
+    "question": "________ is not aspect of Ethics.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Meta- Ethics"
+      },
+      {
+        "letter": "b",
+        "text": "Applied Ethics"
+      },
+      {
+        "letter": "c",
+        "text": "Normative Ethics"
+      },
+      {
+        "letter": "d",
+        "text": "Legal Ethics"
+      }
+    ],
+    "id": 28,
+    "answerLetter": "c",
+    "answerText": "Normative Ethics"
+  },
+  {
+    "question": "Democritus and Leucippus are well known for their theory on ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Anti-bodies"
+      },
+      {
+        "letter": "b",
+        "text": "Nucleus"
+      },
+      {
+        "letter": "c",
+        "text": "Atoms"
+      },
+      {
+        "letter": "d",
+        "text": "Water"
+      }
+    ],
+    "id": 29,
+    "answerLetter": "a",
+    "answerText": "Anti-bodies"
+  },
+  {
+    "question": "A Proposition is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "A declerative sentence"
+      },
+      {
+        "letter": "b",
+        "text": "An interrogative sentence"
+      },
+      {
+        "letter": "c",
+        "text": "An exclamatory statement"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above /\u00a2 ANNOUNCE MENT Jump to..."
+      }
+    ],
+    "id": 30,
+    "answerLetter": "a",
+    "answerText": "A declerative sentence"
+  },
+  {
+    "question": "________ is the first Western philosopher.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Plato"
+      },
+      {
+        "letter": "b",
+        "text": "Anaximenes"
+      },
+      {
+        "letter": "c",
+        "text": "Aristotle"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 31,
+    "answerLetter": "a",
+    "answerText": "Plato"
+  },
+  {
+    "question": "Descartes advocates for",
+    "options": [
+      {
+        "letter": "a",
+        "text": "a posteriori knowledge"
+      },
+      {
+        "letter": "b",
+        "text": "synthetic a posteriori knowledge"
+      },
+      {
+        "letter": "c",
+        "text": "a priori knowledge"
+      },
+      {
+        "letter": "d",
+        "text": "synthetic a prori knowledge"
+      }
+    ],
+    "id": 32,
+    "answerLetter": "a",
+    "answerText": "a posteriori knowledge"
+  },
+  {
+    "question": "______ defines philosophy as an activity undertak en by human beings who are deeply concerned about who they are and what everything mens.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Immanuel Kant"
+      },
+      {
+        "letter": "b",
+        "text": "Stan Lee"
+      },
+      {
+        "letter": "c",
+        "text": "Eren Yeager"
+      },
+      {
+        "letter": "d",
+        "text": "Stanley Honer"
+      }
+    ],
+    "id": 33,
+    "answerLetter": "a",
+    "answerText": "Immanuel Kant"
+  },
+  {
+    "question": "The study of value is called?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Value Judgement"
+      },
+      {
+        "letter": "b",
+        "text": "Axiology"
+      },
+      {
+        "letter": "c",
+        "text": "Axithology"
+      },
+      {
+        "letter": "d",
+        "text": "Value Theory"
+      }
+    ],
+    "id": 34,
+    "answerLetter": "a",
+    "answerText": "Value Judgement"
+  },
+  {
+    "question": "_______ is the twin of consequence",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1st disjunct"
+      },
+      {
+        "letter": "b",
+        "text": "antecedent"
+      },
+      {
+        "letter": "c",
+        "text": "3 bars"
+      },
+      {
+        "letter": "d",
+        "text": "2nd conjunct"
+      }
+    ],
+    "id": 35,
+    "answerLetter": "a",
+    "answerText": "1st disjunct"
+  },
+  {
+    "question": "Philosophy of science is a critical discussion of developments in science which takes account of how it (science ) has fared throughout the ages, and how it has affected man 's destiny positively or negatively.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "Not given"
+      },
+      {
+        "letter": "c",
+        "text": "False"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 36,
+    "answerLetter": "a",
+    "answerText": "True"
+  },
+  {
+    "question": "An argument stated incompletely, and the unstated part of it being taken for granted is called an ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Symbolic logic"
+      },
+      {
+        "letter": "b",
+        "text": "Inductive logic"
+      },
+      {
+        "letter": "c",
+        "text": "Deductive logic"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 37,
+    "answerLetter": "a",
+    "answerText": "Symbolic logic"
+  },
+  {
+    "question": "Memory is the ______ of the mind.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Storehouse"
+      },
+      {
+        "letter": "c",
+        "text": "Length"
+      },
+      {
+        "letter": "d",
+        "text": "Recorder"
+      }
+    ],
+    "id": 38,
+    "answerLetter": "a",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "Whatever works is the real according to",
+    "options": [
+      {
+        "letter": "a",
+        "text": "realism"
+      },
+      {
+        "letter": "b",
+        "text": "pragmatism"
+      },
+      {
+        "letter": "c",
+        "text": "idealism"
+      },
+      {
+        "letter": "d",
+        "text": "materialism"
+      }
+    ],
+    "id": 39,
+    "answerLetter": "a",
+    "answerText": "realism"
+  },
+  {
+    "question": "One of the following can be called a political philosopher",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Friedrich Nietzsche"
+      },
+      {
+        "letter": "b",
+        "text": "Albert Camus"
+      },
+      {
+        "letter": "c",
+        "text": "Bertrand Hegel"
+      },
+      {
+        "letter": "d",
+        "text": "B and C"
+      }
+    ],
+    "id": 40,
+    "answerLetter": "a",
+    "answerText": "Friedrich Nietzsche"
+  },
+  {
+    "question": "As forms of arguments, deductive and inductive arguments are composed of",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Logical connectives that are not valid"
+      },
+      {
+        "letter": "b",
+        "text": "Propositions or statements which can either be true or false"
+      },
+      {
+        "letter": "c",
+        "text": "Claims that are always valid"
+      },
+      {
+        "letter": "d",
+        "text": "Declarative statements"
+      }
+    ],
+    "id": 41,
+    "answerLetter": "a",
+    "answerText": "Logical connectives that are not valid"
+  },
+  {
+    "question": "\"Cogito ego sum\" is associated with ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Plato"
+      },
+      {
+        "letter": "b",
+        "text": "Locke"
+      },
+      {
+        "letter": "c",
+        "text": "Hume"
+      },
+      {
+        "letter": "d",
+        "text": "Descartes"
+      }
+    ],
+    "id": 42,
+    "answerLetter": "a",
+    "answerText": "Plato"
+  },
+  {
+    "question": "Philosophical reflection gains its importance more from what it discovers about the object of its reflection than from ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "its shared nature as truth seeking"
+      },
+      {
+        "letter": "b",
+        "text": "its reflection as a natural ideal"
+      },
+      {
+        "letter": "c",
+        "text": "its own nature as philosophical reflection."
+      },
+      {
+        "letter": "d",
+        "text": "its natural reflection as truth task eD."
+      }
+    ],
+    "id": 43,
+    "answerLetter": "a",
+    "answerText": "its shared nature as truth seeking"
+  },
+  {
+    "question": "The major connective of h ypothetical syllogism is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "the dot"
+      },
+      {
+        "letter": "b",
+        "text": "the three bars"
+      },
+      {
+        "letter": "c",
+        "text": "the horse shoe"
+      },
+      {
+        "letter": "d",
+        "text": "the vee"
+      }
+    ],
+    "id": 44,
+    "answerLetter": "a",
+    "answerText": "the dot"
+  },
+  {
+    "question": "Aristotle defined knowledge as _______",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Virtue"
+      },
+      {
+        "letter": "b",
+        "text": "Justified true belief"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "Deductive Logic"
+      }
+    ],
+    "id": 45,
+    "answerLetter": "a",
+    "answerText": "Virtue"
+  },
+  {
+    "question": "________ denies the theory of innate idea.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Rationalism"
+      },
+      {
+        "letter": "c",
+        "text": "Empiricism"
+      },
+      {
+        "letter": "d",
+        "text": "Idealism"
+      }
+    ],
+    "id": 46,
+    "answerLetter": "a",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "Which philosopher is attributed to the political movement, Marxism?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Karl Mark"
+      },
+      {
+        "letter": "b",
+        "text": "Karl Marx"
+      },
+      {
+        "letter": "c",
+        "text": "Karel Mark"
+      },
+      {
+        "letter": "d",
+        "text": "Karel Marx"
+      }
+    ],
+    "id": 47,
+    "answerLetter": "a",
+    "answerText": "Karl Mark"
+  },
+  {
+    "question": "Philosophy of science is the e xhibition of the workings of philosophy in the scientific enterprise in the conte xt of its history",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Not given"
+      },
+      {
+        "letter": "c",
+        "text": "True"
+      },
+      {
+        "letter": "d",
+        "text": "False"
+      }
+    ],
+    "id": 48,
+    "answerLetter": "a",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "Morality of human conduct is a discussion in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Metaphysics"
+      },
+      {
+        "letter": "b",
+        "text": "Aesthetics"
+      },
+      {
+        "letter": "c",
+        "text": "Epistemology"
+      },
+      {
+        "letter": "d",
+        "text": "Ethics"
+      }
+    ],
+    "id": 49,
+    "answerLetter": "a",
+    "answerText": "Metaphysics"
+  },
+  {
+    "question": "For Augustine, awareness is the product of the __________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Soul's Perception"
+      },
+      {
+        "letter": "b",
+        "text": "Soul's Truth"
+      },
+      {
+        "letter": "c",
+        "text": "Soul's Beliefs"
+      },
+      {
+        "letter": "d",
+        "text": "Soul's Transcendence"
+      }
+    ],
+    "id": 50,
+    "answerLetter": "a",
+    "answerText": "Soul's Perception"
+  },
+  {
+    "question": "Which of the following can be classified as a landmark in the de velopment of science and technology?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Electricity"
+      },
+      {
+        "letter": "b",
+        "text": "Television"
+      },
+      {
+        "letter": "c",
+        "text": "Telephone"
+      },
+      {
+        "letter": "d",
+        "text": "All of the above"
+      }
+    ],
+    "id": 51,
+    "answerLetter": "a",
+    "answerText": "Electricity"
+  },
+  {
+    "question": "Both Aristotle and Plato belong to the",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Socratic period"
+      },
+      {
+        "letter": "b",
+        "text": "ancient period"
+      },
+      {
+        "letter": "c",
+        "text": "contemporary period"
+      },
+      {
+        "letter": "d",
+        "text": "Medieval period"
+      }
+    ],
+    "id": 52,
+    "answerLetter": "a",
+    "answerText": "Socratic period"
+  },
+  {
+    "question": "It is with ________ that the philosopher brings \"together what common sense has thrown apart\" The Renaissance",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None the above"
+      },
+      {
+        "letter": "b",
+        "text": "wisdom"
+      },
+      {
+        "letter": "c",
+        "text": "inquiry"
+      },
+      {
+        "letter": "d",
+        "text": "Truth"
+      }
+    ],
+    "id": 53,
+    "answerLetter": "a",
+    "answerText": "None the above"
+  },
+  {
+    "question": "________ are declarative statements or sentences capable of being verified such that their truth or falsity can be established",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Proposition"
+      },
+      {
+        "letter": "b",
+        "text": "Deduction"
+      },
+      {
+        "letter": "c",
+        "text": "Induction"
+      },
+      {
+        "letter": "d",
+        "text": "Premisses"
+      }
+    ],
+    "id": 54,
+    "answerLetter": "a",
+    "answerText": "Proposition"
+  },
+  {
+    "question": "Philosophy of education is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Philosophy of discipline"
+      },
+      {
+        "letter": "b",
+        "text": "An aspect of ethics"
+      },
+      {
+        "letter": "c",
+        "text": "An aspect of natural science"
+      },
+      {
+        "letter": "d",
+        "text": "An aspect of epistemology"
+      }
+    ],
+    "id": 55,
+    "answerLetter": "a",
+    "answerText": "Philosophy of discipline"
+  },
+  {
+    "question": "Which of the following tutored Ale xander the Great?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Plato"
+      },
+      {
+        "letter": "b",
+        "text": "Hume"
+      },
+      {
+        "letter": "c",
+        "text": "Aristotle"
+      },
+      {
+        "letter": "d",
+        "text": "None of the above"
+      }
+    ],
+    "id": 56,
+    "answerLetter": "a",
+    "answerText": "Plato"
+  },
+  {
+    "question": "Ontology is a special branch of metaphysics called",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Metaphysics Specialist"
+      },
+      {
+        "letter": "b",
+        "text": "Dogmatic Metaphysics"
+      },
+      {
+        "letter": "c",
+        "text": "Metaphysiks specialis"
+      },
+      {
+        "letter": "d",
+        "text": "Metaphysiks generalis"
+      }
+    ],
+    "id": 57,
+    "answerLetter": "a",
+    "answerText": "Metaphysics Specialist"
+  },
+  {
+    "question": "In the history of philosophy, the first sceptic in ancient Greece were recorded to be the",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the above"
+      },
+      {
+        "letter": "b",
+        "text": "Milasians"
+      },
+      {
+        "letter": "c",
+        "text": "Sophists"
+      },
+      {
+        "letter": "d",
+        "text": "Socrates"
+      }
+    ],
+    "id": 58,
+    "answerLetter": "a",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "The view that evil comes out of the ignorance of its consequences was given by?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Socrates"
+      },
+      {
+        "letter": "b",
+        "text": "If only"
+      },
+      {
+        "letter": "c",
+        "text": "Not always"
+      },
+      {
+        "letter": "d",
+        "text": "False"
+      }
+    ],
+    "id": 59,
+    "answerLetter": "a",
+    "answerText": "Socrates"
+  },
+  {
+    "question": "Which of these is your GST 102 instructor?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Stephen Oriaku"
+      },
+      {
+        "letter": "b",
+        "text": "Fatai Rolling Dollar"
+      },
+      {
+        "letter": "c",
+        "text": "Stephen Ekubo"
+      },
+      {
+        "letter": "d",
+        "text": "Fatai Odusun"
+      }
+    ],
+    "id": 60,
+    "answerLetter": "a",
+    "answerText": "Stephen Oriaku"
+  },
+  {
+    "question": "The ________ believe that freedom is the essence of man",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Phenomenalists"
+      },
+      {
+        "letter": "b",
+        "text": "Existentialists"
+      },
+      {
+        "letter": "c",
+        "text": "Ontologists"
+      },
+      {
+        "letter": "d",
+        "text": "Moralists"
+      }
+    ],
+    "id": 61,
+    "answerLetter": "a",
+    "answerText": "Phenomenalists"
+  },
+  {
+    "question": "Which of the following do the etymological definition of philosophy translates to?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sophies world"
+      },
+      {
+        "letter": "b",
+        "text": "Love in wisdom"
+      },
+      {
+        "letter": "c",
+        "text": "Love and wisdom"
+      },
+      {
+        "letter": "d",
+        "text": "Love of wisdom"
+      }
+    ],
+    "id": 62,
+    "answerLetter": "a",
+    "answerText": "Sophies world"
+  },
+  {
+    "question": "What is morality?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "It refers to a person or group's standards of right and wrong or good and bad"
+      },
+      {
+        "letter": "b",
+        "text": "It is a set of principles that regulate our conducts in the society"
+      },
+      {
+        "letter": "c",
+        "text": "It is theory of knowledge"
+      },
+      {
+        "letter": "d",
+        "text": "It is a body of knowledge"
+      }
+    ],
+    "id": 63,
+    "answerLetter": "a",
+    "answerText": "It refers to a person or group's standards of right and wrong or good and bad"
+  },
+  {
+    "question": "A ________ argument makes the claim that its conclusion is supported by its premises conclusively",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Simple"
+      },
+      {
+        "letter": "b",
+        "text": "Truthful"
+      },
+      {
+        "letter": "c",
+        "text": "Deductive"
+      },
+      {
+        "letter": "d",
+        "text": "Compound"
+      }
+    ],
+    "id": 64,
+    "answerLetter": "a",
+    "answerText": "Simple"
+  },
+  {
+    "question": "_______ gave correct e xplanation of the act of vision, saying that ocular vision is achieved by something passing from the object into the eye",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Al Khawarizmi"
+      },
+      {
+        "letter": "b",
+        "text": "Al-Gazali"
+      },
+      {
+        "letter": "c",
+        "text": "All of the above"
+      },
+      {
+        "letter": "d",
+        "text": "Ibn-al-Hazen"
+      }
+    ],
+    "id": 65,
+    "answerLetter": "a",
+    "answerText": "Al Khawarizmi"
+  },
+  {
+    "question": "According to Aristotalian logic, Deductiv e arguments move from",
+    "options": [
+      {
+        "letter": "a",
+        "text": "General premises to particular conclusion"
+      },
+      {
+        "letter": "b",
+        "text": "Particular conclusion to particular premise"
+      },
+      {
+        "letter": "c",
+        "text": "General premises to invalid conclusion"
+      },
+      {
+        "letter": "d",
+        "text": "Particular premise to general conclusion"
+      }
+    ],
+    "id": 66,
+    "answerLetter": "a",
+    "answerText": "General premises to particular conclusion"
+  },
+  {
+    "question": "Karl Marx is associated with",
+    "options": [
+      {
+        "letter": "a",
+        "text": "realism"
+      },
+      {
+        "letter": "b",
+        "text": "pragmatism"
+      },
+      {
+        "letter": "c",
+        "text": "idealism"
+      },
+      {
+        "letter": "d",
+        "text": "materialism"
+      }
+    ],
+    "id": 67,
+    "answerLetter": "a",
+    "answerText": "realism"
+  },
+  {
+    "question": "Who is the master of Plato?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Plotinus"
+      }
+    ],
+    "id": 68,
+    "answerLetter": "a",
+    "answerText": "Plotinus"
+  },
+  {
+    "question": "Philosophy became for the Greeks __________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "a way of trying to make coherent meaning out of man 's complex universe;"
+      },
+      {
+        "letter": "b",
+        "text": "All of the above"
+      },
+      {
+        "letter": "c",
+        "text": "to achieve unity in a disjointed world and to understand human e xistence"
+      },
+      {
+        "letter": "d",
+        "text": "a way to achieve order in disorder;"
+      }
+    ],
+    "id": 69,
+    "answerLetter": "a",
+    "answerText": "a way of trying to make coherent meaning out of man 's complex universe;"
+  },
+  {
+    "question": "There are ______ theories of truth",
+    "options": [
+      {
+        "letter": "a",
+        "text": "6"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "5"
+      },
+      {
+        "letter": "d",
+        "text": "Several"
+      }
+    ],
+    "id": 70,
+    "answerLetter": "a",
+    "answerText": "6"
+  },
+  {
+    "question": "The horseshoe is the logical connective for ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Disjunction"
+      },
+      {
+        "letter": "b",
+        "text": "Material conditional"
+      },
+      {
+        "letter": "c",
+        "text": "Negation"
+      },
+      {
+        "letter": "d",
+        "text": "Material bi-conditional"
+      }
+    ],
+    "id": 71,
+    "answerLetter": "a",
+    "answerText": "Disjunction"
+  },
+  {
+    "question": "Which fallacy is committed in the following \"Eat y our food. Think about the starving children in Africa\"?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Appeal to consequence"
+      },
+      {
+        "letter": "b",
+        "text": "Appeal to tradition"
+      },
+      {
+        "letter": "c",
+        "text": "Slippery slope"
+      },
+      {
+        "letter": "d",
+        "text": "Appeal to emotion"
+      }
+    ],
+    "id": 72,
+    "answerLetter": "a",
+    "answerText": "Appeal to consequence"
+  },
+  {
+    "question": "Philosophy takes care of everything",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "None of the above"
+      },
+      {
+        "letter": "c",
+        "text": "False"
+      },
+      {
+        "letter": "d",
+        "text": "Not given"
+      }
+    ],
+    "id": 73,
+    "answerLetter": "b",
+    "answerText": "None of the above"
+  },
+  {
+    "question": "Whose theory of falling bodies discredited that of Aristotle?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Galileo Galilei"
+      },
+      {
+        "letter": "b",
+        "text": "Copernicus"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "Plato"
+      }
+    ],
+    "id": 74,
+    "answerLetter": "a",
+    "answerText": "Galileo Galilei"
+  },
+  {
+    "question": "Which law asserts that e verybody attracts every other body with a force directly proportional to their masses and inversely proportional to the square of the distances between them?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Law of attraction"
+      },
+      {
+        "letter": "b",
+        "text": "Law of universal attraction"
+      },
+      {
+        "letter": "c",
+        "text": "Law of Gravity"
+      },
+      {
+        "letter": "d",
+        "text": "Law of universal gra vitation Make a note of any responses entered on this page in the last few minutes, then try to re-connect. Once connection has been re-established, your responses should be saved and this message will disappear."
+      }
+    ],
+    "id": 75,
+    "answerLetter": "a",
+    "answerText": "Law of attraction"
+  },
+  {
+    "question": "Kant is the originator of",
+    "options": [
+      {
+        "letter": "a",
+        "text": "a priori knowledge"
+      },
+      {
+        "letter": "b",
+        "text": "synthetic a prori knowledge"
+      },
+      {
+        "letter": "c",
+        "text": "a posteriori knowledge"
+      },
+      {
+        "letter": "d",
+        "text": "synthetic a posteriori knowledge"
+      }
+    ],
+    "id": 76,
+    "answerLetter": "a",
+    "answerText": "a priori knowledge"
+  },
+  {
+    "question": "In determining the value to be placed on a work of art and human conduct, axiology does not stipulate standards to which works of art and human actions should conform, but sets constructs.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "False"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "I didn't read about this"
+      }
+    ],
+    "id": 77,
+    "answerLetter": "a",
+    "answerText": "True"
+  },
+  {
+    "question": "Aristotle's Ethical theory is famously known as _____",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Virtue Theory"
+      },
+      {
+        "letter": "b",
+        "text": "Eudomonia"
+      },
+      {
+        "letter": "c",
+        "text": "Habitual Ethics"
+      },
+      {
+        "letter": "d",
+        "text": "Eudomonism"
+      }
+    ],
+    "id": 78,
+    "answerLetter": "a",
+    "answerText": "Virtue Theory"
+  },
+  {
+    "question": "_______ attempts to train y ou on how to think through your problems and face all the facts in volveD.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Dialectics"
+      },
+      {
+        "letter": "b",
+        "text": "Philosophy"
+      },
+      {
+        "letter": "c",
+        "text": "Epistemology"
+      },
+      {
+        "letter": "d",
+        "text": "Philology"
+      }
+    ],
+    "id": 79,
+    "answerLetter": "a",
+    "answerText": "Dialectics"
+  },
+  {
+    "question": "As a field of inquiry, philosophy deals with ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "one of the above"
+      },
+      {
+        "letter": "b",
+        "text": "the systematic body of principles of inquiry ."
+      },
+      {
+        "letter": "c",
+        "text": "an assumptions underlying any particular field of e xperience"
+      },
+      {
+        "letter": "d",
+        "text": "Peace and immediate tranquility"
+      }
+    ],
+    "id": 80,
+    "answerLetter": "a",
+    "answerText": "one of the above"
+  },
+  {
+    "question": "Inductive arguments yield some degree of ________ for its conclusion",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Possibility"
+      },
+      {
+        "letter": "b",
+        "text": "Truth"
+      },
+      {
+        "letter": "c",
+        "text": "Validity"
+      },
+      {
+        "letter": "d",
+        "text": "Probability"
+      }
+    ],
+    "id": 81,
+    "answerLetter": "a",
+    "answerText": "Possibility"
+  },
+  {
+    "question": "Metaphysics can be classified into _____forms",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "2"
+      },
+      {
+        "letter": "d",
+        "text": "5"
+      }
+    ],
+    "id": 82,
+    "answerLetter": "a",
+    "answerText": "4"
+  },
+  {
+    "question": "Which law of thought can be asociated with \"Sar aki cannot be a politician and also not a politician at the same time \"?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Law of DeMorgan"
+      },
+      {
+        "letter": "b",
+        "text": "Law of identity"
+      },
+      {
+        "letter": "c",
+        "text": "Law of excluded middle"
+      },
+      {
+        "letter": "d",
+        "text": "Law of contradiction"
+      }
+    ],
+    "id": 83,
+    "answerLetter": "a",
+    "answerText": "Law of DeMorgan"
+  },
+  {
+    "question": "The Tilde is the logical connective for_______",
+    "options": [],
+    "id": 84,
+    "answerLetter": "a",
+    "answerText": ""
+  },
+  {
+    "question": "Metaphysics deals with",
+    "options": [
+      {
+        "letter": "a",
+        "text": "The search for heaven and hell"
+      },
+      {
+        "letter": "b",
+        "text": "The search for ultimate reality"
+      },
+      {
+        "letter": "c",
+        "text": "The search for witchcraft"
+      },
+      {
+        "letter": "d",
+        "text": "The search for God /\u00a2 ANNOUNCE MENT Jump to..."
+      }
+    ],
+    "id": 85,
+    "answerLetter": "a",
+    "answerText": "The search for heaven and hell"
+  },
+  {
+    "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Body"
+      },
+      {
+        "letter": "b",
+        "text": "Soul"
+      },
+      {
+        "letter": "c",
+        "text": "Mind"
+      },
+      {
+        "letter": "d",
+        "text": "People"
+      }
+    ],
+    "id": 86,
+    "answerLetter": "a",
+    "answerText": "Body"
+  },
+  {
+    "question": "The issue of morality is the business of ______",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Epistemology"
+      },
+      {
+        "letter": "b",
+        "text": "Ethicology"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "All of the above"
+      }
+    ],
+    "id": 87,
+    "answerLetter": "a",
+    "answerText": "Epistemology"
+  },
+  {
+    "question": "_______ sees philosophy as a self-reflective activity and hence cannot tak e its own nature for granted without losing itself.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Tiger Wood"
+      },
+      {
+        "letter": "b",
+        "text": "Alvin Wood"
+      },
+      {
+        "letter": "c",
+        "text": "Tally Wood"
+      },
+      {
+        "letter": "d",
+        "text": "Allen Wood"
+      }
+    ],
+    "id": 88,
+    "answerLetter": "a",
+    "answerText": "Tiger Wood"
+  },
+  {
+    "question": "__________ wanted to discover the master-k ey to universal harmony, both natural and social",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Plato"
+      },
+      {
+        "letter": "b",
+        "text": "Pythagoras"
+      },
+      {
+        "letter": "c",
+        "text": "Aristotle"
+      },
+      {
+        "letter": "d",
+        "text": "Parmenides"
+      }
+    ],
+    "id": 89,
+    "answerLetter": "a",
+    "answerText": "Plato"
+  },
+  {
+    "question": "The premordial substance for Plato was?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "None of the following"
+      },
+      {
+        "letter": "b",
+        "text": "Water"
+      },
+      {
+        "letter": "c",
+        "text": "Earth"
+      },
+      {
+        "letter": "d",
+        "text": "Avatar state"
+      }
+    ],
+    "id": 90,
+    "answerLetter": "a",
+    "answerText": "None of the following"
+  },
+  {
+    "question": "Logic, defined as the study of the methods and principles used to distinguish correct from incorrect reason \" was given by _______",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Susan Haack"
+      },
+      {
+        "letter": "b",
+        "text": "Gilbert Ryle"
+      },
+      {
+        "letter": "c",
+        "text": "Irving Corpi"
+      },
+      {
+        "letter": "d",
+        "text": "Douglas Anele"
+      }
+    ],
+    "id": 91,
+    "answerLetter": "a",
+    "answerText": "Susan Haack"
+  },
+  {
+    "question": "________ is the attributes shared by all and only the objects in the class that a giv en term denotes; the connotation of the term",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Language"
+      },
+      {
+        "letter": "b",
+        "text": "Connective"
+      },
+      {
+        "letter": "c",
+        "text": "Extension"
+      },
+      {
+        "letter": "d",
+        "text": "Intension"
+      }
+    ],
+    "id": 92,
+    "answerLetter": "a",
+    "answerText": "Language"
+  },
+  {
+    "question": "The triple bar is the logical connective for _______",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Conjunction"
+      },
+      {
+        "letter": "b",
+        "text": "Bi-conditional"
+      },
+      {
+        "letter": "c",
+        "text": "Negation"
+      },
+      {
+        "letter": "d",
+        "text": "Material Implication"
+      }
+    ],
+    "id": 93,
+    "answerLetter": "a",
+    "answerText": "Conjunction"
+  },
+  {
+    "question": "Ethics is the study of ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Ethos"
+      },
+      {
+        "letter": "b",
+        "text": "Amorality"
+      },
+      {
+        "letter": "c",
+        "text": "Ethicology"
+      },
+      {
+        "letter": "d",
+        "text": "Morality"
+      }
+    ],
+    "id": 94,
+    "answerLetter": "a",
+    "answerText": "Ethos"
+  },
+  {
+    "question": "Which of these is the method through which scientific activity is grounded in philosophy",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Observation"
+      },
+      {
+        "letter": "b",
+        "text": "metaphysical paradigm"
+      },
+      {
+        "letter": "c",
+        "text": "None of the above"
+      },
+      {
+        "letter": "d",
+        "text": "Experimentation"
+      }
+    ],
+    "id": 95,
+    "answerLetter": "a",
+    "answerText": "Observation"
+  },
+  {
+    "question": "The ancient Greek philosophy is characterized by what?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Age of Reason"
+      },
+      {
+        "letter": "b",
+        "text": "Cosmogony"
+      },
+      {
+        "letter": "c",
+        "text": "Cosmology"
+      },
+      {
+        "letter": "d",
+        "text": "Ontology"
+      }
+    ],
+    "id": 96,
+    "answerLetter": "a",
+    "answerText": "Age of Reason"
+  },
+  {
+    "question": "Which of the following is an Ancient Greek Philosopher?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Karl Marx"
+      },
+      {
+        "letter": "b",
+        "text": "Thales"
+      },
+      {
+        "letter": "c",
+        "text": "John Locke"
+      },
+      {
+        "letter": "d",
+        "text": "Hegel"
+      }
+    ],
+    "id": 97,
+    "answerLetter": "a",
+    "answerText": "Karl Marx"
+  },
+  {
+    "question": "What class of people deny the e xistence of God?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Philosophers"
+      },
+      {
+        "letter": "b",
+        "text": "Atheists"
+      },
+      {
+        "letter": "c",
+        "text": "Psychologists"
+      },
+      {
+        "letter": "d",
+        "text": "Theists"
+      }
+    ],
+    "id": 98,
+    "answerLetter": "a",
+    "answerText": "Philosophers"
+  },
+  {
+    "question": "\"It is either he passes or he fails\" is a",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Bi-conditional"
+      },
+      {
+        "letter": "b",
+        "text": "Disjunction"
+      },
+      {
+        "letter": "c",
+        "text": "Conjunction"
+      },
+      {
+        "letter": "d",
+        "text": "Implication"
+      }
+    ],
+    "id": 99,
+    "answerLetter": "a",
+    "answerText": "Bi-conditional"
+  },
+  {
+    "question": "The statement \"John is either a student or a worker\" can be symbolized as",
+    "options": [
+      {
+        "letter": "a",
+        "text": "P ! Q"
+      },
+      {
+        "letter": "b",
+        "text": "P v Q"
+      },
+      {
+        "letter": "c",
+        "text": "P x Q"
+      },
+      {
+        "letter": "d",
+        "text": "P _ Q"
+      }
+    ],
+    "id": 100,
+    "answerLetter": "a",
+    "answerText": "P ! Q"
+  },
+  {
+    "question": "The pre-socratic philosophers can be otherwise known as?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Cosmogonists"
+      },
+      {
+        "letter": "b",
+        "text": "Cosmologists"
+      },
+      {
+        "letter": "c",
+        "text": "Miletins"
+      },
+      {
+        "letter": "d",
+        "text": "Athenins"
+      }
+    ],
+    "id": 101,
+    "answerLetter": "a",
+    "answerText": "Cosmogonists"
+  },
+  {
+    "question": "Another name for Ethics is ______",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Moralism"
+      },
+      {
+        "letter": "b",
+        "text": "Moral Theory"
+      },
+      {
+        "letter": "c",
+        "text": "Moral Philosophy"
+      },
+      {
+        "letter": "d",
+        "text": "Moral Psychology"
+      }
+    ],
+    "id": 102,
+    "answerLetter": "a",
+    "answerText": "Moralism"
+  },
+  {
+    "question": "________ is a theory of knowledge.",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Instrumentalism"
+      },
+      {
+        "letter": "b",
+        "text": "Idealism"
+      },
+      {
+        "letter": "c",
+        "text": "Materialism"
+      },
+      {
+        "letter": "d",
+        "text": "Rationalism"
+      }
+    ],
+    "id": 103,
+    "answerLetter": "a",
+    "answerText": "Instrumentalism"
+  },
+  {
+    "question": "In the realm of human conduct, axiology branches off into ________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Morality"
+      },
+      {
+        "letter": "b",
+        "text": "Moralism"
+      },
+      {
+        "letter": "c",
+        "text": "Moral Philosophy"
+      },
+      {
+        "letter": "d",
+        "text": "Ethics"
+      }
+    ],
+    "id": 104,
+    "answerLetter": "a",
+    "answerText": "Morality"
+  },
+  {
+    "question": "Immanuel Kant is famously known for his ethical theory e xplicated in his groundwork for the Metaphysics of Morals, this ethical theory is known as ___________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Categorical Imperative"
+      },
+      {
+        "letter": "b",
+        "text": "Golden Mean"
+      },
+      {
+        "letter": "c",
+        "text": "Ethica Duty"
+      },
+      {
+        "letter": "d",
+        "text": "Ethics of Care"
+      }
+    ],
+    "id": 105,
+    "answerLetter": "a",
+    "answerText": "Categorical Imperative"
+  },
+  {
+    "question": "The questions such as \"what is the relation between knowledge and reality\" and \"Is human mind capable of knowing?\" Are most likely from _____________",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Metaphysics"
+      },
+      {
+        "letter": "b",
+        "text": "Empiricism"
+      },
+      {
+        "letter": "c",
+        "text": "Rationalism"
+      },
+      {
+        "letter": "d",
+        "text": "Epistemology"
+      }
+    ],
+    "id": 106,
+    "answerLetter": "a",
+    "answerText": "Metaphysics"
+  },
+  {
+    "question": "_____________ defines philosophy as a reflection of the etymological definition of the love of wisdom",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Cicero"
+      },
+      {
+        "letter": "b",
+        "text": "Aristotle"
+      },
+      {
+        "letter": "c",
+        "text": "Plotinus"
+      },
+      {
+        "letter": "d",
+        "text": "Galileo"
+      }
+    ],
+    "id": 107,
+    "answerLetter": "a",
+    "answerText": "Cicero"
+  },
+  {
+    "question": "Thales is the father of",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Anaximander"
+      },
+      {
+        "letter": "b",
+        "text": "logic"
+      },
+      {
+        "letter": "c",
+        "text": "Philosophy"
+      },
+      {
+        "letter": "d",
+        "text": "Plato"
+      }
+    ],
+    "id": 108,
+    "answerLetter": "a",
+    "answerText": "Anaximander"
+  },
+  {
+    "question": "The main logical connective of the second premise of constructiv e dilemma is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "the three bars"
+      },
+      {
+        "letter": "b",
+        "text": "the horse shoe"
+      },
+      {
+        "letter": "c",
+        "text": "the vee"
+      },
+      {
+        "letter": "d",
+        "text": "the dot"
+      }
+    ],
+    "id": 109,
+    "answerLetter": "a",
+    "answerText": "the three bars"
+  },
+  {
+    "question": "How many periods of philosophy are there?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3"
+      },
+      {
+        "letter": "b",
+        "text": "4"
+      },
+      {
+        "letter": "c",
+        "text": "5"
+      },
+      {
+        "letter": "d",
+        "text": "6"
+      }
+    ],
+    "id": 110,
+    "answerLetter": "a",
+    "answerText": "3"
+  },
+  {
+    "question": "The major connective of addition 's conclusion is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "the three bars"
+      },
+      {
+        "letter": "b",
+        "text": "the vee"
+      },
+      {
+        "letter": "c",
+        "text": "the dot"
+      },
+      {
+        "letter": "d",
+        "text": "the horse shoe"
+      }
+    ],
+    "id": 111,
+    "answerLetter": "a",
+    "answerText": "the three bars"
+  },
+  {
+    "question": "The exclusive subject-matter of philosophy comprises ontology, epistemology and axiology",
+    "options": [
+      {
+        "letter": "a",
+        "text": "True"
+      },
+      {
+        "letter": "b",
+        "text": "None of the above"
+      },
+      {
+        "letter": "c",
+        "text": "False"
+      },
+      {
+        "letter": "d",
+        "text": "I didn't read about this /\u00a2 ANNOUNCE MENT Jump to..."
+      }
+    ],
+    "id": 112,
+    "answerLetter": "a",
+    "answerText": "True"
+  }
+]
