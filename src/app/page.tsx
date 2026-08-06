@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo, useRef, useEffect } from 'react';
+import React, { useState, useMemo, useRef } from 'react';
 import rawQuestions from '../data/questions.json';
 
 interface Option {
@@ -69,6 +69,16 @@ function BookIcon() {
   return (
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" />
+    </svg>
+  );
+}
+
+function XCircleIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10" />
+      <path d="m15 9-6 6" />
+      <path d="m9 9 6 6" />
     </svg>
   );
 }
@@ -155,15 +165,14 @@ export default function PracticePage() {
         {(
           <div className="space-y-4">
             {paginatedQuestions.map((q) => {
-              const isAnswerShown = !!visibleAnswers[q.id];
               const selectedOpt = userSelections[q.id];
+              const hasAnswered = !!selectedOpt;
+              const isAnswerShown = !!visibleAnswers[q.id];
+              const showFeedback = hasAnswered || isAnswerShown;
 
               return (
                 <article key={q.id} className="glass-card rounded-2xl overflow-hidden">
-                  {/* Card body */}
                   <div className="p-5 sm:p-6 space-y-4">
-
-                    {/* Question text */}
                     <div className="flex items-start gap-3">
                       <span className="q-badge">{q.id}</span>
                       <h2 className="text-sm sm:text-[0.9375rem] font-medium leading-relaxed pt-0.5" style={{ color: '#e2e8f0' }}>
@@ -171,21 +180,25 @@ export default function PracticePage() {
                       </h2>
                     </div>
 
-                    {/* Options */}
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 pl-0 sm:pl-12">
                       {q.options.map((opt) => {
                         const isSelected = selectedOpt === opt.letter;
-                        const isCorrect = isAnswerShown && opt.letter === q.answerLetter;
+                        const isCorrectOption = opt.letter === q.answerLetter;
 
                         let optClass = 'option-btn';
                         let badgeClass = 'letter-badge default';
+                        let textColor = '#cbd5e1';
 
-                        if (isCorrect) {
-                          optClass += ' correct';
-                          badgeClass = 'letter-badge correct';
-                        } else if (isSelected) {
-                          optClass += ' selected';
-                          badgeClass = 'letter-badge selected';
+                        if (showFeedback) {
+                          if (isCorrectOption) {
+                            optClass += ' correct';
+                            badgeClass = 'letter-badge correct';
+                            textColor = '#a7f3d0';
+                          } else if (isSelected) {
+                            optClass += ' wrong';
+                            badgeClass = 'letter-badge wrong';
+                            textColor = '#fca5a5';
+                          }
                         }
 
                         return (
@@ -195,36 +208,27 @@ export default function PracticePage() {
                             className={`${optClass} w-full text-left p-3 rounded-xl flex items-start gap-2.5 cursor-pointer`}
                           >
                             <span className={badgeClass}>{opt.letter}</span>
-                            <span className="text-[0.8125rem] leading-snug pt-0.5" style={{ color: isCorrect ? '#a7f3d0' : isSelected ? '#ddd6fe' : '#cbd5e1' }}>
+                            <span className="text-[0.8125rem] leading-snug pt-0.5" style={{ color: textColor }}>
                               {opt.text}
                             </span>
                           </button>
                         );
                       })}
                     </div>
-                  </div>
 
-                  {/* Answer action strip */}
-                  <div className="px-5 sm:px-6 pb-5 sm:pb-6">
-                    <hr className="divider mb-4" />
-                    <div className="flex flex-col sm:flex-row sm:items-center gap-3">
-                      <button
-                        onClick={() => toggleAnswer(q.id)}
-                        className={`btn-reveal flex items-center gap-2 px-4 py-2 text-xs ${isAnswerShown ? 'active' : ''}`}
-                      >
-                        {isAnswerShown ? <><EyeOffIcon /> Hide Answer</> : <><EyeIcon /> Show Answer</>}
-                      </button>
-
-                      {isAnswerShown && (
-                        <div className="answer-box answer-reveal flex-1 flex items-start gap-2">
-                          <CheckCircleIcon />
-                          <div>
-                            <span className="answer-label">Answer ({q.answerLetter}): </span>
-                            <span>{q.answerText || 'See reference material'}</span>
-                          </div>
-                        </div>
-                      )}
-                    </div>
+                    {hasAnswered && (
+                      <div className={`answer-reveal flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs font-semibold ${
+                        selectedOpt === q.answerLetter
+                          ? 'bg-emerald-500/10 border border-emerald-500/25 text-emerald-300'
+                          : 'bg-rose-500/10 border border-rose-500/25 text-rose-300'
+                      }`}>
+                        {selectedOpt === q.answerLetter ? (
+                          <><CheckCircleIcon /> Correct!</>
+                        ) : (
+                          <><XCircleIcon /> Wrong — the answer is ({q.answerLetter}) {q.answerText || ''}</>
+                        )}
+                      </div>
+                    )}
                   </div>
                 </article>
               );
