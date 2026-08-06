@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
-      <body className="antialiased text-slate-100 min-h-screen flex flex-col custom-scrollbar">
+      <body className="antialiased min-h-screen flex flex-col custom-scrollbar">
         {children}
       </body>
     </html>
