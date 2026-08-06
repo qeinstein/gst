@@ -20,15 +20,6 @@ const questions: Question[] = rawQuestions as Question[];
 
 /* ── SVG Icons (inline, no dependency needed) ─────────────── */
 
-function SearchIcon() {
-  return (
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <circle cx="11" cy="11" r="8" />
-      <path d="m21 21-4.35-4.35" />
-    </svg>
-  );
-}
-
 function ChevronLeftIcon() {
   return (
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
@@ -74,15 +65,6 @@ function CheckCircleIcon() {
   );
 }
 
-function XIcon() {
-  return (
-    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-      <path d="M18 6 6 18" />
-      <path d="m6 6 12 12" />
-    </svg>
-  );
-}
-
 function BookIcon() {
   return (
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -91,44 +73,20 @@ function BookIcon() {
   );
 }
 
-function HashIcon() {
-  return (
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-      <line x1="4" x2="20" y1="9" y2="9" />
-      <line x1="4" x2="20" y1="15" y2="15" />
-      <line x1="10" x2="8" y1="3" y2="21" />
-      <line x1="16" x2="14" y1="3" y2="21" />
-    </svg>
-  );
-}
 
 export default function PracticePage() {
-  const [searchTerm, setSearchTerm] = useState('');
   const [visibleAnswers, setVisibleAnswers] = useState<Record<number, boolean>>({});
   const [userSelections, setUserSelections] = useState<Record<number, string>>({});
   const [currentPage, setCurrentPage] = useState(1);
-  const [pageSize, setPageSize] = useState<number | 'all'>(15);
-  const [jumpTo, setJumpTo] = useState('');
+  const pageSize = 15;
   const topRef = useRef<HTMLDivElement>(null);
 
-  const filteredQuestions = useMemo(() => {
-    if (!searchTerm.trim()) return questions;
-    const term = searchTerm.toLowerCase();
-    return questions.filter(
-      (q) =>
-        q.id.toString() === term ||
-        q.question.toLowerCase().includes(term) ||
-        q.options.some((o) => o.text.toLowerCase().includes(term))
-    );
-  }, [searchTerm]);
-
   const paginatedQuestions = useMemo(() => {
-    if (pageSize === 'all') return filteredQuestions;
     const start = (currentPage - 1) * pageSize;
-    return filteredQuestions.slice(start, start + pageSize);
-  }, [filteredQuestions, currentPage, pageSize]);
+    return questions.slice(start, start + pageSize);
+  }, [currentPage]);
 
-  const totalPages = pageSize === 'all' ? 1 : Math.ceil(filteredQuestions.length / pageSize);
+  const totalPages = Math.ceil(questions.length / pageSize);
 
   const toggleAnswer = (id: number) => {
     setVisibleAnswers((prev) => ({ ...prev, [id]: !prev[id] }));
@@ -138,18 +96,9 @@ export default function PracticePage() {
     setUserSelections((prev) => ({ ...prev, [qId]: letter }));
   };
 
-  const handleJump = (e: React.FormEvent) => {
-    e.preventDefault();
-    const num = parseInt(jumpTo, 10);
-    if (!isNaN(num) && num >= 1 && num <= questions.length) {
-      setSearchTerm(num.toString());
-      setJumpTo('');
-    }
-  };
-
   const revealAllAnswers = () => {
     const state: Record<number, boolean> = {};
-    filteredQuestions.forEach((q) => { state[q.id] = true; });
+    questions.forEach((q) => { state[q.id] = true; });
     setVisibleAnswers(state);
   };
 
@@ -159,9 +108,6 @@ export default function PracticePage() {
     setCurrentPage(p);
     topRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
-
-  // count how many of the filtered questions have visible answers
-  const answersShownCount = filteredQuestions.filter((q) => visibleAnswers[q.id]).length;
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -203,93 +149,10 @@ export default function PracticePage() {
       {/* ─── Main ────────────────────────────────── */}
       <main ref={topRef} className="flex-1 max-w-5xl w-full mx-auto px-4 sm:px-6 py-6 space-y-5">
 
-        {/* ── Toolbar ────────────────────────────── */}
-        <div className="glass-toolbar rounded-2xl p-4 space-y-3">
-          <div className="grid grid-cols-1 md:grid-cols-12 gap-3 items-center">
-            {/* Search */}
-            <div className="md:col-span-8 relative">
-              <span className="absolute left-3.5 top-1/2 -translate-y-1/2" style={{ color: '#64748b' }}>
-                <SearchIcon />
-              </span>
-              <input
-                type="text"
-                placeholder="Search by keyword, topic, or question number…"
-                value={searchTerm}
-                onChange={(e) => { setSearchTerm(e.target.value); setCurrentPage(1); }}
-                className="input-field pl-10"
-              />
-              {searchTerm && (
-                <button
-                  onClick={() => setSearchTerm('')}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 p-1 rounded-md hover:bg-white/5"
-                  style={{ color: '#64748b' }}
-                >
-                  <XIcon />
-                </button>
-              )}
-            </div>
 
-            {/* Jump to Q# */}
-            <form onSubmit={handleJump} className="md:col-span-4 flex items-center gap-2">
-              <div className="relative flex-1">
-                <span className="absolute left-3 top-1/2 -translate-y-1/2" style={{ color: '#64748b' }}>
-                  <HashIcon />
-                </span>
-                <input
-                  type="number"
-                  min="1"
-                  max={questions.length}
-                  placeholder={`Q# (1–${questions.length})`}
-                  value={jumpTo}
-                  onChange={(e) => setJumpTo(e.target.value)}
-                  className="input-field pl-9"
-                />
-              </div>
-              <button type="submit" className="btn-primary px-4 py-2.5 text-sm whitespace-nowrap">
-                Jump
-              </button>
-            </form>
-          </div>
-
-          {/* Stats row */}
-          <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t" style={{ borderColor: 'rgba(255,255,255,0.05)' }}>
-            <p className="text-xs" style={{ color: '#64748b' }}>
-              Showing{' '}
-              <span className="font-semibold" style={{ color: '#94a3b8' }}>{filteredQuestions.length}</span>
-              {' '}of{' '}
-              <span className="font-semibold" style={{ color: '#94a3b8' }}>{questions.length}</span>
-              {' '}questions
-              {answersShownCount > 0 && (
-                <span style={{ color: '#6ee7b7' }}> · {answersShownCount} answers shown</span>
-              )}
-            </p>
-
-            <div className="flex items-center gap-1.5">
-              <span className="text-xs mr-1" style={{ color: '#64748b' }}>Per page:</span>
-              {[15, 30, 50, 'all' as const].map((size) => (
-                <button
-                  key={String(size)}
-                  onClick={() => { setPageSize(size); setCurrentPage(1); }}
-                  className={`page-size-btn ${pageSize === size ? 'active' : ''}`}
-                >
-                  {size === 'all' ? 'All' : size}
-                </button>
-              ))}
-            </div>
-          </div>
-        </div>
 
         {/* ── Questions ──────────────────────────── */}
-        {paginatedQuestions.length === 0 ? (
-          <div className="glass-toolbar rounded-2xl empty-state">
-            <div className="empty-state-icon">?</div>
-            <p className="text-lg font-semibold" style={{ color: '#cbd5e1' }}>No questions match your search</p>
-            <p className="text-sm mt-1" style={{ color: '#64748b' }}>Try a different keyword or clear the search.</p>
-            <button onClick={() => setSearchTerm('')} className="btn-primary px-5 py-2 text-xs mt-4 inline-block">
-              Clear Search
-            </button>
-          </div>
-        ) : (
+        {(
           <div className="space-y-4">
             {paginatedQuestions.map((q) => {
               const isAnswerShown = !!visibleAnswers[q.id];
@@ -367,10 +230,10 @@ export default function PracticePage() {
               );
             })}
           </div>
-        )}
+        )
 
         {/* ── Pagination ─────────────────────────── */}
-        {pageSize !== 'all' && totalPages > 1 && (
+        {totalPages > 1 && (
           <div className="glass-toolbar rounded-2xl p-4 flex items-center justify-between gap-4">
             <button
               disabled={currentPage === 1}
